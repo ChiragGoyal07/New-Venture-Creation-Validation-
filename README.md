@@ -1,1 +1,1 @@
-# New-Venture-Creation-Validation-
+# Idea Validation System
